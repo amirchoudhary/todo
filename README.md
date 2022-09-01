@@ -1,5 +1,10 @@
 # todo_app
 
+This is Flutter Todo App With google signin and Firebase backend.
+We can add delete and update todo.
+For delete I have implemented the swipe delete.
+Belowis the screenshot link. Hope you like it!
+
 Screen Shot
 https://keep.google.com/u/0/media/v2/1WcT9dbDqmGuhnrzLOtjxZMREO6VeYx29ztq5mE6lSz-wbOdzQZ7MslgiQRkf1svnWTt7/1KfbdQL_cnjbWVRUgM1bSaLWiPhYRZsudtEbKAMlTk6xRLKPF01h-IoHnzUCFz94vqQWF?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp%2Caudio%2Faac&sz=1440
 https://keep.google.com/u/0/media/v2/1WcT9dbDqmGuhnrzLOtjxZMREO6VeYx29ztq5mE6lSz-wbOdzQZ7MslgiQRkf1svnWTt7/1kfj22Ywxe361428c38VhVg6-fs4E7IaCNkNu8PaPsHZnhh42ljpDNAJ7a68_XfWnpsxO?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp%2Caudio%2Faac&sz=1440
